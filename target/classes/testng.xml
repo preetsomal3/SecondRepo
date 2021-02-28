@@ -12,6 +12,7 @@
       <class name="com.project.qa.testcases.LoginPageTest"/>
       <class name="com.project.qa.testcases.HomePageTest"/>
       <class name="com.project.qa.testcases.RegisterPageTest"/>
+	       <class name="com.project.qa.testcases.RegisterPageTest2"/>
         
        </classes>
   </test> <!-- Test -->
